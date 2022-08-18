@@ -1,4 +1,4 @@
-# Skyscraper Puzzle Solver Algorithm, v1.0, Thursday, 18th August 2022, 21:56.
+# Skyscraper Puzzle Solver, v1.0, Thursday, 18th August 2022, 21:56.
 
 # Final remarks:
 - Semi-dynamic, ie algo will not successfully work 
