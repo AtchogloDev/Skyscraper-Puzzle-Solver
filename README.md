@@ -2,5 +2,5 @@
 
 # Final remarks:
 - Semi-dynamic, ie algo will not successfully work 
-if mes is altered
+if mes is altered;
 - A one-week work! Thanks to me for figuring it out!
