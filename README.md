@@ -23,7 +23,7 @@ if mes is altered;
 # Test running
 
 ## Puzzle
-![This is the test puzzle](https://steamuserimages-a.akamaihd.net/ugc/947343292121732592/A6E3950ABFA019E3D5C78A3C202AE6A365FD93C1/)
+![This is the empty test puzzle](https://raw.githubusercontent.com/atchoglogilbert/Skyscraper-Puzzle-Solver/main/puzz_empty.png)
 
 ## Commands
 ```
