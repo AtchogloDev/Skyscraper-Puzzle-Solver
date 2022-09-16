@@ -29,7 +29,7 @@ if mes is altered;
 ```
 cd ex00
 gcc *.c -o rush-01
-./rush-01 "3 2 1 2 1 2 2 3 3 2 2 1 2 1 2 3"
+./rush-01 "2 1 3 2 2 3 2 1 2 1 3 2 2 3 2 1"
 ```
 
 ## Expected
