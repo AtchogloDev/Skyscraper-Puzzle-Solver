@@ -1,4 +1,4 @@
-# Skyscraper Puzzle Solver
+# Skyscraper Puzzle Solver v1
 ###### First release, v1.0, Thu, 18th Aug 2022, 21:56.
 ###### v1.1, Fr, 16th Sep 2022, 22:20 -
 
@@ -12,7 +12,7 @@ if mes is altered;
 ## Puzzle
 https://steamuserimages-a.akamaihd.net/ugc/947343292121732592/A6E3950ABFA019E3D5C78A3C202AE6A365FD93C1/
 
-## Views Order
+## Views Input Order
 ./rush-01 "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"
 
 ## Commands
