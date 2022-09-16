@@ -12,9 +12,7 @@ if mes is altered;
 ## Puzzle
 ![This is the test puzzle](https://steamuserimages-a.akamaihd.net/ugc/947343292121732592/A6E3950ABFA019E3D5C78A3C202AE6A365FD93C1/)
 
-## Views Input Order 
-**counting from left-right or top-bottom**<br />
-<br />
+## Views Input Order (counting from left-right or top-bottom)
 ./rush-01 "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"
 
 ## Commands
