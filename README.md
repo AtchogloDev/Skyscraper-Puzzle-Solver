@@ -1,4 +1,7 @@
-# Skyscraper Puzzle Solver, v1.0, Thursday, 18th August 2022, 21:56.
+# Skyscraper Puzzle Solver
+## v1.0, Thu, 18th August 2022, 21:56.
+## v1.1, Fr, 18th August 2022, 22:20 -
+
 # Final remarks
 - Semi-flexible, ie algo will not successfully work 
 if mes is altered;
