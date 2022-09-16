@@ -33,4 +33,4 @@ gcc *.c -o rush-01
 ```
 
 ## Result
-![This is the filled test puzzle](https://raw.githubusercontent.com/atchoglogilbert/Skyscraper-Puzzle-Solver/main/puzz.png)
+![This is the filled test puzzle](https://raw.githubusercontent.com/atchoglogilbert/Skyscraper-Puzzle-Solver/main/puzz.jpg)
