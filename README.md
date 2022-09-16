@@ -17,7 +17,7 @@ if mes is altered;
 
 <br />
 
-| First Header  | Second Header |
+| col1up  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
