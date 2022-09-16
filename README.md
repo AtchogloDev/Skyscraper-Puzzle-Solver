@@ -17,9 +17,9 @@ if mes is altered;
 
 <br />
 
-|   blank  | col1up | col2up | col3up | col4up |        |
-| -------- | ------ | ------ | ------ | ------ | ------ |
-| row1left | skyscr | skyscr | skyscr | skyscr | skyscr |
+|          | col1up | col2up | col3up | col4up |           |
+| -------- | ------ | ------ | ------ | ------ | --------- |
+| row1left |   x    |   x    |   x    |   x    | row1right |
 
 
 ## Commands
