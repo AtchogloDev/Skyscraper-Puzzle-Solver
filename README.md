@@ -19,5 +19,5 @@ https://steamuserimages-a.akamaihd.net/ugc/947343292121732592/A6E3950ABFA019E3D5
 ```
 cd ex00
 gcc *.c -o rush-01
-- ./rush-01 "3 2 1 2 1 2 2 3 3 2 2 1 2 1 2 3"
+./rush-01 "3 2 1 2 1 2 2 3 3 2 2 1 2 1 2 3"
 ```
