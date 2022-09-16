@@ -1,6 +1,6 @@
 # Skyscraper Puzzle Solver v1
-###### First release, v1.0, Thu, 18th Aug 2022, 21:56.
-###### v1.1, Fr, 16th Sep 2022, 22:20 -
+- First release, v1.0, Thu, 18th Aug 2022, 21:56.
+- v1.1, Fr, 16th Sep 2022, 22:20 -
 
 # Final remarks
 - Semi-flexible, ie algo will not successfully work 
