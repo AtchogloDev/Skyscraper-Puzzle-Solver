@@ -17,7 +17,7 @@ if mes is altered;
 
 <br />
 
-		   | col1up | col2up | col3up | col4up |
+|          | col1up | col2up | col3up | col4up |           |
 | -------- | ------ | ------ | ------ | ------ | --------- |
 | row1left |   x    |   x    |   x    |   x    | row1right |
 | row2left |   x    |   x    |   x    |   x    | row2right |
