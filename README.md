@@ -4,3 +4,8 @@
 - Semi-flexible, ie algo will not successfully work 
 if mes is altered;
 - A one-week work! Thanks to me for figuring it out!
+
+# Test
+cd ex00
+gcc *.c -o rush-01
+./rush-01 "3 2 1 2 1 2 2 3 3 2 2 1 2 1 2 3"

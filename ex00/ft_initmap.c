@@ -33,20 +33,16 @@ int	**ft_initmap(int **map, int *mes)
 	int	i;
 
 	ptrs = (int *) malloc (2 * (mes[0] + mes[1]) * 4);
-	if (ptrs != NULL)
+	map = (int **) malloc (mes[0] * 8);
+	if (ptrs != NULL && map != NULL)
 	{
-		map = (int **) malloc (mes[0] * 8);
-		if (map != NULL)
-		{
-			i = 0;
-			while (i < mes[0])
-			{
-				map[i] = ptrs + mes[1] * i;
-				i++;
-			}
-			if (ft_emptymap (map, mes) == 0)
-				return (map);
-		}
+		i = -1;
+		while (++i < mes[0])
+			map[i] = ptrs + mes[1] * i;
+		if (ft_emptymap (map, mes) == 0)
+			return (map);
 	}
+	free (ptrs);
+	free (map);
 	return (NULL);
 }
