@@ -24,4 +24,5 @@ void	ft_free(int **arr, int m, int n)
 			free (&arr[coordn[0]][coordn[1]]);
 		free (arr[coordn[0]]);
 	}
+	free (arr);
 }
